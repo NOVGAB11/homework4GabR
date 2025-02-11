@@ -13,6 +13,7 @@
     const deleteTransaction = (id) => {
         emit('transactionDeleted', id)
     }
+    
 </script>
 
 
